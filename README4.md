@@ -20,9 +20,8 @@
 
 ##Entrades
 |Tipus|Cost
-|---|---
-Normal|55€
-Premium|150€
+|Normal|55€
+|Premium|150€
 
 ##Normativa
 -No es pot entrar amb ampolles de vidre
