@@ -19,9 +19,10 @@
 - * Sessions relax 
 
 ## Entrades
-|Tipus|Cost
-|Normal|55€
-|Premium|150€
+|Tipus|Cost|
+------------
+|Normal|55€|
+|Premium|150€|
 
 ## Normativa
 - No es pot entrar amb ampolles de vidre
