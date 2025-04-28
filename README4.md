@@ -1,6 +1,6 @@
 #Festival Internacional Sonoritats
 
-**Celebra la musica* i l'art a tot arreu.
+# **Celebra la musica* i l'art a tot arreu.
 
 ##Escenaris Principals:
 - Escenari pop
