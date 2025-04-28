@@ -2,7 +2,7 @@
 
 # **Celebra la musica* i l'art a tot arreu.
 
-##Escenaris Principals:
+## Escenaris Principals:
 - Escenari pop
 - Escenari electronica
 - Escenari indie
