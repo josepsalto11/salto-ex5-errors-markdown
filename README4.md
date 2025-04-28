@@ -23,20 +23,20 @@
 |Normal|55€
 |Premium|150€
 
-##Normativa
+## Normativa
 - No es pot entrar amb ampolles de vidre
 - Zona d'acampada gratuïta
 - Punt de primers auxilis
 
-##Transport
+## Transport
 * Busos llançadora gratuïts
 * Pàrquing privat
 
-##Recomanacions
+## ecomanacions
 * Portar impermeable en cas de pluja
 * Aplicació oficial amb mapa interactiu
 
-##Contacte
+## Contacte
 - Organització Sonoritats 2025
 - Suport telefònic 24/7
 
