@@ -30,7 +30,7 @@
 
 ##Transport
 * Busos llançadora gratuïts
-Pàrquing privat
+* Pàrquing privat
 
 ##Recomanacions
 * Portar impermeable en cas de pluja
