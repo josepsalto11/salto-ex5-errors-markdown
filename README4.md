@@ -16,7 +16,7 @@
 ##Activitats Addicionals
 - Foodtrucks
 - Tallers artistics
-- *Sessions relax*
+- * Sessions relax 
 
 ##Entrades
 |Tipus|Cost
