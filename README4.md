@@ -29,7 +29,7 @@
 -Punt de primers auxilis
 
 ##Transport
-Busos llançadora gratuïts
+* Busos llançadora gratuïts
 Pàrquing privat
 
 ##Recomanacions
