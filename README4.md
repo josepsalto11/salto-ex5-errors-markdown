@@ -1,4 +1,4 @@
-#Festival Internacional Sonoritats
+# Festival Internacional Sonoritats
 
 # **Celebra la musica* i l'art a tot arreu.
 
