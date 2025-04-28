@@ -10,7 +10,7 @@
 ##Line-up
 1. BillieEilish
 2. DavidGuetta
-3) ArcticMonkeys
+3. ArcticMonkeys
 4) The Weeknd
 
 ##Activitats Addicionals
