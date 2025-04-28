@@ -18,7 +18,7 @@
 - Tallers artistics
 - * Sessions relax 
 
-##Entrades
+## Entrades
 |Tipus|Cost
 |Normal|55€
 |Premium|150€
