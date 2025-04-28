@@ -38,5 +38,5 @@
 
 ##Contacte
 - Organització Sonoritats 2025
-Suport telefònic 24/7
+- Suport telefònic 24/7
 
